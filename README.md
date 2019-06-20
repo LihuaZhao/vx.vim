@@ -46,5 +46,6 @@ e: xxx.spec        # auto insert spec template
 <leader>f          # find file under WIND_BASE
 <leader>b          # switch buffer
 <leader>a          # search string
+<leader>cv         # create vsb
 ```
 
